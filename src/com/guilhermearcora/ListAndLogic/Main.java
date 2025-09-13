@@ -1,11 +1,10 @@
-package com.guilhermearcora.ListAndComparable;
+package com.guilhermearcora.ListAndLogic;
 
-import com.guilhermearcora.ListAndComparable.modelos.CartaoDeCredito;
+import com.guilhermearcora.ListAndLogic.modelos.CartaoDeCredito;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Collections;
 
 public class Main {
 

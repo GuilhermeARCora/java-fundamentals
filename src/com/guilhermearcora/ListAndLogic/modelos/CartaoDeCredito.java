@@ -1,4 +1,4 @@
-package com.guilhermearcora.ListAndComparable.modelos;
+package com.guilhermearcora.ListAndLogic.modelos;
 
 import java.util.ArrayList;
 import java.util.List;
